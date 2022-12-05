@@ -1,4 +1,6 @@
 # Your pp does not display with one of the following reasons:
+## Person Best
+Your pp will be displayed when you achieved new personal best score.
 ## 1st Time / Failed
 You're playing this beatmap for the very first time, and you didn't manage to win. Complete the beatmap to display your score and position.
 ## Beatmap Type
