@@ -9,3 +9,5 @@ This type of beatmap does not provide, including, 'Unranked', 'WIP', 'Graveyard'
 Client was unable to reach the server database, may be server is under maintenance mode, etc.
 ## Client Error
 Client is currently offline, or may has an error. Contact Developer to fix.
+# Incompatiable Mod
+You are currently have mods enable, which cause beatmap to be 'unranked'
